@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.my-style {
+  background-color: #85CDFD;
+  color: #362FD9;
+  padding-left: 590px;
+  padding-right: 30px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+body {
+  background-color: #F6F7C1;
+}
+
+@media (min-width: 768px) {
+  body {
+    background-color: #FDA769;
+  }
+
+}
+
+@media (min-width: 1024px) {
+  body {
+    background-color: #fff;
+  }
+
+}
+
+@media (min-width: 1280px) {
+  body {
+    background-color: #A31ACB;
+  }
+
+}
